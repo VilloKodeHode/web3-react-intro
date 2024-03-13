@@ -1,0 +1,20 @@
+header {
+    height: 80px;
+    background-color: rgb(16, 28, 53);
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: 0 32px;
+}
+
+header nav {
+    display: flex;
+    gap: 16px;
+  }
+
+  header nav li {
+    height: fit-content;
+    list-style: none;
+    background-color: #213547;
+    padding: 8px 16px;
+  }

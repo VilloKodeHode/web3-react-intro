@@ -1,0 +1,6 @@
+main {
+    min-height: calc(100vh - 80px);
+    display: grid;
+    place-items: center;
+    background-color: #535bf2 ;
+}
